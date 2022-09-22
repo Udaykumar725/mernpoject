@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  /*font-size: 62.5%;*/
+  
+  background-color: rgba(146, 189, 189, 0.507);
+}
+
+.homediv{
+  color: black;
+  font-size: larger;
+  margin-top: 15%;
+  margin-left: 55%;
+  transform: translate(-50%, -50%);
+}
+.centered{
+  margin-top: 15%;
+  margin-left: 50%;
+  transform: translate(-50%, -50%);
+}
+.textcentered{
+  text-align: center;
+}
